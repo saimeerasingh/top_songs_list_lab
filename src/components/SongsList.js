@@ -13,9 +13,9 @@ const SongsList = ({songs}) => {
 
     return(
         <>
-        <ul>
+        <div>
        {songNodes}
-       </ul>
+       </div>
        </>
     )
 }

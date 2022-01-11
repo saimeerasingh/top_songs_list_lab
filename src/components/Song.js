@@ -3,7 +3,7 @@ import React from "react";
 const Song = ({name, link}) => {
     return(
         <>
-        <a href={link}><li>{name}</li></a>
+        <a href={link}><h3>{name}</h3></a>
         </>
     )
 }
