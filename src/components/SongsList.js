@@ -1,5 +1,5 @@
 import React from "react";
-import Song from './Song'
+import Song from './Song';
 
 const SongsList = ({songs}) => {
 
@@ -13,7 +13,9 @@ const SongsList = ({songs}) => {
 
     return(
         <>
+        <ul>
        {songNodes}
+       </ul>
        </>
     )
 }

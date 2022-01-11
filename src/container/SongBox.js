@@ -8,17 +8,17 @@ const SongBox = () => {
             {
                 id: 1,
                 name: "Olivia Rodrigo - deja vu",
-                url: "https://www.youtube.com/watch?v=j2VbR4W_wg4"
+                link: "https://www.youtube.com/watch?v=j2VbR4W_wg4"
             },
             {
                 id: 2,
                 name: "Ed Sheeran - Bad Habits",
-                url: "https://www.youtube.com/watch?v=orJSJGHjBLI"
+                link: "https://www.youtube.com/watch?v=orJSJGHjBLI"
             },
             {
                 id: 3,
                 name: "Adele - To Be Loved",
-                url: "https://www.youtube.com/watch?v=_dlExeOyFh4"
+                link: "https://www.youtube.com/watch?v=_dlExeOyFh4"
             },
         ]
     )
